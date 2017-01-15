@@ -124,7 +124,8 @@ p {
 }
 
 .man img {
-	height: 200px;
+	height: 500px;
+	clip: rect();
 }
 
 /* can't get h2 font to show lighter */
